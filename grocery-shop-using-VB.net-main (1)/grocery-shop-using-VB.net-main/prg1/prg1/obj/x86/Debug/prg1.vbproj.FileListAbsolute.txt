@@ -1,0 +1,17 @@
+c:\users\jeevi\onedrive\documents\visual studio 2010\Projects\prg1\prg1\bin\Debug\prg1.pdb
+c:\users\jeevi\onedrive\documents\visual studio 2010\Projects\prg1\prg1\bin\Debug\prg1.xml
+c:\users\jeevi\onedrive\documents\visual studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.splash.resources
+c:\users\jeevi\onedrive\documents\visual studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.Resources.resources
+c:\users\jeevi\onedrive\documents\visual studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.vbproj.GenerateResource.Cache
+c:\users\jeevi\onedrive\documents\visual studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.xml
+c:\users\jeevi\onedrive\documents\visual studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.pdb
+C:\Users\jeevi\OneDrive\Documents\Visual Studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.billing.resources
+C:\Users\jeevi\OneDrive\Documents\Visual Studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.Items.resources
+C:\Users\jeevi\OneDrive\Documents\Visual Studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.login.resources
+C:\Users\jeevi\OneDrive\Documents\Visual Studio 2010\Projects\prg1\prg1\bin\Debug\prg1.exe
+C:\Users\jeevi\OneDrive\Documents\Visual Studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.exe
+C:\Users\jeevi\OneDrive\Documents\Visual Studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.TIMER.resources
+C:\Users\jeevi\OneDrive\Documents\Visual Studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.Form1.resources
+C:\Users\jeevi\OneDrive\Documents\Visual Studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.Employees.resources
+C:\Users\jeevi\OneDrive\Documents\Visual Studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.signup.resources
+C:\Users\jeevi\OneDrive\Documents\Visual Studio 2010\Projects\prg1\prg1\obj\x86\Debug\prg1.user.resources
